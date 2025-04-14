@@ -1,9 +1,11 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package Calculadora is used to:
+	classes:
+		- create a simple calculator
+	main:
+		- import and use the functions from class Calculadora
 
 ## Installation
 
@@ -12,16 +14,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install package_name
 ```
-
-## Usage
-
-```python
-from package_name import file1_name
-file1_name.my_function()
-```
-
 ## Author
-My_name
+Rafael Luz
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
